@@ -1,5 +1,4 @@
-#
-magento-adobe-commerce-developer-AD0-E717
+# magento-adobe-commerce-developer-AD0-E717
 
 **What is magento 2 ?**  
 
